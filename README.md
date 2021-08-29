@@ -1,5 +1,5 @@
 # Kodluyoruz ilk repo
-Bu repo [kodluyoruz] {https://kodluyoruz.org} Front-end eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
+Bu repo [kodluyoruz] (https://kodluyoruz.org) Front-end eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
 ## installiation
 -öncelikle reponuzu clonelayın (buraya sizin reponuzdan aldığınız link gelecek)
@@ -20,4 +20,4 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[MIT]{ https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository}
+[MIT]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
