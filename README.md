@@ -23,5 +23,5 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 
 ## project image
-![alt text](http://url/to/img.png)![mark](https://user-images.githubusercontent.com/44783933/131260314-d25caf1a-1608-4b13-bc3a-c01102471418.png)
+![ benim yaptığım örnek ](http://url/to/img.png)![mark](https://user-images.githubusercontent.com/44783933/131260314-d25caf1a-1608-4b13-bc3a-c01102471418.png)
 
